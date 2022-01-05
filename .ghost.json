@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "http://kyon.tech",
+    "contentApiKey": "ad34789f3487f480ba9350d135"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "http://kyon.tech",
+    "contentApiKey": "ad34789f3487f480ba9350d135"
   }
 }
